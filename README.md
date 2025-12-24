@@ -31,9 +31,12 @@ The study followed a strict computational pipeline:
 * **Docking Analysis:** The vaccine showed strong binding affinity to the **TLR4 receptor** with a lowest energy score of **-605.4 kcal/mol**.
 
 ## 🖼️ Visuals
-*(See the uploaded files for high-resolution figures)*
 * **Figure 1:** Final vaccine linear sequence.
+* <img width="940" height="470" alt="image" src="https://github.com/user-attachments/assets/2864f822-33dc-4df3-b970-4592bd58dffc" />
+
 * **Figure 2:** 3D modelled structure of the vaccine (PyMOL).
+* <img width="883" height="595" alt="image" src="https://github.com/user-attachments/assets/f4ac67a9-1f09-45f4-acb6-db9a77b5d7cf" />
+
 
 ---
 *Research conducted by Aafreen Sayed and team under the guidance of Dr. Sneha Dokhale.*
